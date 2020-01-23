@@ -1,0 +1,7 @@
+_bin/
+__pycache__/
+config.py
+config/
+newsAPI_old.py
+bignuts_men_copy.txt
+usernames.txt
